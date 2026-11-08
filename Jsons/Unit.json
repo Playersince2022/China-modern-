@@ -1,0 +1,62 @@
+[
+  {
+    "name": "J-20 Mighty Dragon",
+    "unitType": "Fighter",
+    "uniqueTo": "China",
+    "replaces": "Jet Fighter",
+    "movement": 2,
+    "strength": 110,
+    "rangedStrength": 110,
+    "range": 10,
+    "cost": 500,
+    "requiredTech": "Stealth",
+    "requiredResource": "Aluminum",
+    "uniques": [
+      "Can see invisible units",
+      "[+50]% Combat bonus vs Intercepting Air units",
+      "[50]% chance to evade interception",
+      "Air Recon"
+    ],
+    "description": "5th Generation stealth air superiority fighter ng China na may mataas na evasion at visibility range."
+  },
+  {
+    "name": "Type 055 Destroyer",
+    "unitType": "Melee Water",
+    "uniqueTo": "China",
+    "replaces": "Destroyer",
+    "movement": 6,
+    "strength": 95,
+    "rangedStrength": 85,
+    "range": 2,
+    "cost": 450,
+    "requiredTech": "Combined Arms",
+    "requiredResource": "Oil",
+    "uniques": [
+      "Can see invisible Submarines",
+      "[+50]% Combat bonus vs Submarines",
+      "May Carry [2] Aircraft",
+      "Interceptor"
+    ],
+    "description": "Modernong guided-missile destroyer na nilagyan ng advanced radar para sa anti-submarine at air defense."
+  },
+  {
+    "name": "Type 054B Cruiser",
+    "unitType": "Ranged Water",
+    "uniqueTo": "China",
+    "replaces": "Missile Cruiser",
+    "movement": 5,
+    "strength": 90,
+    "rangedStrength": 105,
+    "range": 3,
+    "cost": 520,
+    "requiredTech": "Robotics",
+    "requiredResource": "Aluminum",
+    "uniques": [
+      "May Carry [3] Missiles",
+      "[+100]% Combat bonus vs Air units",
+      "Can Launch Missiles",
+      "Indirect Fire"
+    ],
+    "description": "Napakalakas na guided-missile cruiser na dalubhasa sa long-range strike at air-defense umbrella."
+  }
+]
